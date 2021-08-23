@@ -12,3 +12,9 @@ add it to the board
 check if user won: checking rows, columns and diagonals
 toggle between users upon succesful moves
 """
+
+
+
+
+
+
