@@ -13,7 +13,7 @@ board = [
     ["-", "-", "-"]
 ]
 
-user = True  # when true it refers to x, otherwise o
+user = True      # true if refers to x, otherwise o
 turns = 0
 
 
